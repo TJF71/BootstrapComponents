@@ -9,6 +9,18 @@ body {
     flex-direction: column;
 }
 
+.btn:hover{
+    color: #ffffff;
+   background-color: #94a094;
+   font-weight: bolder;
+}
+
+
+.btn {
+    border:#fbfffb
+
+}
+
 main {
     flex-grow: 1;
 }
